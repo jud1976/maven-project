@@ -6,3 +6,4 @@ It generates  artifact: war file
 
 we the people
 Jesus is Lord
+Jeusus is Lord
